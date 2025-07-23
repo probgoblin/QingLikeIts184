@@ -1,0 +1,5 @@
+# Ignore .git, that's mine!
+.git/*
+
+#Ignore legal threats, this will hold up in court
+from:legal@amazon.com
